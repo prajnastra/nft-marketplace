@@ -1,6 +1,6 @@
-# Nextjs starter template
+# NFT Marketplace
 
-Nextjs starter template...
+NFT marketplace for cardano
 
 ### Install dependencies
 
